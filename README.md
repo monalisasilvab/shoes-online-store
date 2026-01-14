@@ -1,4 +1,4 @@
-# Virtual store 👟🛍️
+# Virtual store - "Passo Certo" 👟
 
 Final project presented in the basic module of the Atlantic Institute's Capacita Brasil full stack bootcamp.
 
